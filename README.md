@@ -1,6 +1,6 @@
 PROJECT : AGRO_BOT
 
-Overview
+Overview :
 This document provides detailed instructions on how to use the Agro-Bot system. Agro-Bot is an Arduino-based robot designed for agricultural tasks. It follows a black line using infrared sensors, detects obstacles using an ultrasonic sensor, and checks soil moisture levels to determine whether irrigation is needed.
 
 Features:
